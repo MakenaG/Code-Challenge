@@ -1,0 +1,20 @@
+button {
+    background-color: blue;
+    height: 20px;
+    width: 20%;
+    font-size: large;
+    color: aliceblue;
+    text-align: center;
+}
+body {
+    justify-content: center;
+    align-items: center;
+}
+input {
+  background-color: aliceblue;
+  color: black;
+  text-align: center;
+}
+span {
+    color: white;
+}
