@@ -11,9 +11,9 @@ The project contains three javascript files: 1.gradinggenerator.js which run the
 You can run the project by either cloning it or forking it into a folder, once you have the project in the folder, For the first two challenges you can use console to run them or just run them through the terminal.For the third challenge, run the "index.html" in any browser of your choice. The html file is linked to all the salary javascript file in the folder as well as its css file.
 
 # AUTHORS.
-GLORY MITHIKA
+MAKENAG
 
-.@MakenaG
+@makenaG
 
 # LICENCE
 MIT License
