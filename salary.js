@@ -29,6 +29,7 @@ const grossalary = () => {
     };
 
     /* PAYEE CALCULATIONS */
+    /* ELSE IF IMPLEMENTATION */
     function payee() {
 
 
