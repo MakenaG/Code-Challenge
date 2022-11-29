@@ -1,5 +1,5 @@
 function gradingGenerator(){
-    let grade = 70;
+    let grade = prompt('70');
  
     // Nested if else
         if (grade  <= 100 && grade >= 79) {
