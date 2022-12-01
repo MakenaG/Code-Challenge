@@ -8,7 +8,7 @@ The project contains three javascript files: 1.gradinggenerator.js which run the
 
 # INSTALLATIONS.
 
-You can run the project by either cloning it or forking it into a folder, once you have the project in the folder, For the first two challenges you can use console to run them or just run them through the terminal.For the third challenge, run the "index.html" in any browser of your choice. The html file is linked to all the salary javascript file in the folder as well as its css file.
+The gradinggenerator.js and speeddetector.js should be ran via console.To open the console go to google and click the control,shift and c tab then paste the code provided in the js file.You can run the third project by either cloning it or forking it into a folder, once you have the project in the folder run the "index.html" in any browser of your choice. The html file is linked to all the salary javascript file in the folder as well as its css file.
 
 # AUTHORS.
 MAKENAG
