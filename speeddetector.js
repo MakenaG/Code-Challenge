@@ -1,9 +1,6 @@
-// challenge 2: Speed Detector
-//function declaration!
-
 function speedCheck(speed) {
     
-    let speed1 = ((speed - 70) / 5);
+    let speed1 = prompt((speed - 70) / 5);
 // nested if  implementation   
     if ((speed <= 70)) {
         console. log("OK");
@@ -15,4 +12,4 @@ function speedCheck(speed) {
             console. log ("License suspended");
         };
     }
-    speedCheck()
+    speedCheck(60)
